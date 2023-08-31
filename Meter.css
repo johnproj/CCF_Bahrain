@@ -493,29 +493,29 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 595px;
+  min-height: 508px;
 }
 
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 491px;
+    min-height: 419px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 376px;
+    min-height: 321px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 282px;
+    min-height: 241px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 178px;
+    min-height: 152px;
   }
 }
