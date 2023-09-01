@@ -16,7 +16,7 @@
   font-family: Asap;
   font-size: 3.75rem;
   font-weight: 700;
-  text-shadow: -2px 2px 22px rgba(246,219,0,1);
+  text-shadow: 0px 0px 8px rgba(255,222,89,1);
   margin: 1px calc(((100% - 1140px) / 2) + 126px) 0 calc(((100% - 1140px) / 2) + 558px);
 }
 
@@ -198,10 +198,11 @@
 }
 
 .u-section-1 .u-image-3 {
-  width: 1137px;
-  height: 464px;
+  width: 1211px;
+  height: 484px;
   object-position: 100% 50%;
-  margin: 429px auto 60px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  margin: 429px auto 45px;
 }
 
 .u-section-1 .embed-responsive-1 {
@@ -432,7 +433,7 @@
     width: 540px;
     height: 220px;
     margin-right: calc(((100% - 540px) / 2));
-    margin-bottom: 60px;
+    margin-bottom: 45px;
   }
 
   .u-section-1 .embed-responsive-1 {
@@ -533,7 +534,7 @@
 
   .u-section-1 .u-image-3 {
     width: 340px;
-    height: 139px;
+    height: 136px;
     margin-top: 234px;
     margin-right: auto;
   }
